@@ -1,5 +1,6 @@
 /**
  * This program uses overloading methods
+ * @author APRIL DAGDAGAN
  */
 public class App {
     //overloaded computeSum() methods
